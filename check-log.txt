@@ -1,0 +1,14 @@
+[檢查1] ingest 來源數 = 5（要求 ≥5）→ 通過
+[檢查2] brown2020-gpt3.md：連結與查證紀錄 → 通過
+[檢查2] kojima2022-zero-shot.md：連結與查證紀錄 → 通過
+[檢查2] schulhoff2024-prompt-report.md：連結與查證紀錄 → 通過
+[檢查2] wei2022-cot.md：連結與查證紀錄 → 通過
+[檢查2] yao2022-react.md：連結與查證紀錄 → 通過
+[檢查3] chain-of-thought.md：3 條 claim，缺來源 0 條 → 通過
+[檢查3] few-shot.md：2 條 claim，缺來源 0 條 → 通過
+[檢查3] prompt-engineering.md：2 條 claim，缺來源 0 條 → 通過
+[檢查3] react.md：2 條 claim，缺來源 0 條 → 通過
+[檢查3] zero-shot-cot.md：2 條 claim，缺來源 0 條 → 通過
+[檢查4] HTML 引用編號 ['1', '2', '3', '4', '5'] 皆有對應來源 → 通過
+[檢查5] HTML 的 5 個連結皆出現在 Wiki → 通過
+[檢查6] HTML 中的「58 種技術」在 Wiki：是

@@ -1,2 +1,9 @@
-# -B1243023-TAICA-10
-提示工程。Wiki 以 5 篇 arXiv 論文為來源（Brown 2020、Wei 2022、Kojima 2022、Yao 2022、Schulhoff 2024），整理出 5 個概念頁：提示工程、少樣本提示、思維鏈、零樣本思維鏈、ReAct。建立方式為先確定主題與讀者，再逐篇查證、寫入，最後才生成簡報；每條內容都標註來源。
+# 提示工程 LLM Wiki 與教學簡報
+
+宜蘭大學 B1243023 資工系四年級 楊立安
+
+- `index.html`：教學 HTML 簡報（GitHub Pages 首頁）
+- `prompt-wiki/`：LLM Wiki（5 篇 arXiv 來源、5 個概念頁）
+- `report-loop-graph-reflection.md`：loop / graph 設計與反思
+- `check-log.txt`：一次實際執行的檢查紀錄
+- `submission.md`：繳交內容
